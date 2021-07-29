@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- Created with PainterSVG V3.50 -->
+
+<svg  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:psvg="http://www.paintersvg.com/namespace.html" id="null"  width="67.82" height="113.955" viewBox="0 0 67.82 113.955">
+<defs><clipPath id="clipPath153" clipPathUnits="userSpaceOnUse">
+<path id="path155" d=" M 270.375,628.273 324.631,628.273 324.631,719.437 270.375,719.437 270.375,628.273 Z" style="fill:none;stroke:#000000;stroke-width:0;stroke-opacity:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dashoffset:0;"/>
+</clipPath>
+</defs>
+<path id="path147" d=" M 59.0088,1.3613 66.44,1.3613 66.44,100.4488 1.3725,100.4488 1.3725,80.3" style="fill:#FFF200;fill-opacity:1;stroke:none;" transform="matrix(1,0,0,1,-0.0238,-0.0133)"/>
+<g id="g151" transform="matrix(1.25,0,0,-1.25,-337.9926,899.283)" clip-path="url(#clipPath153)">
+<path id="path157" d=" M 271.446,718.367 271.473,655.328 317.579,718.348" style="fill:#ED1C24;fill-opacity:1;stroke:none;"/>
+<path id="path159" d=" M 322.491,717.297 C 322.491,715.243 322.491,642.216 322.491,640.163 320.481,640.163 274.526,640.163 272.515,640.163 272.515,642.216 272.515,715.243 272.515,717.297 274.526,717.297 320.481,717.297 322.491,717.297 Z M 270.375,719.437 270.375,638.023 324.631,638.023 324.631,719.437" style="fill:#231F20;fill-opacity:1;stroke:none;"/>
+</g>
+<path id="path161" d=" M 58.0363,2.6875 0.1312,81.7738 6.8613,82.08 57.5275,13.3675" style="fill:#0095D9;fill-opacity:1;stroke:none;" transform="matrix(1,0,0,1,-0.0238,-0.0133)"/>
+<path id="path163" d=" M 50.8687,49.41 24.2613,31.8326 52.9688,17.4563" style="fill:#231F20;fill-opacity:1;stroke:none;" transform="matrix(1,0,0,1,-0.0238,-0.0133)"/>
+<path id="path165" d=" M 49.2275,78.6525 29.565,78.6588 39.4425,61.5038" style="fill:#231F20;fill-opacity:1;stroke:none;" transform="matrix(1,0,0,1,-0.0238,-0.0133)"/>
+<path id="path167" d=" M 34.6875,88.3113 C 34.7325,84.2638 43.65,84.595 47.3262,88.3113" style="fill:#ED1C24;fill-opacity:1;stroke:none;" transform="matrix(1,0,0,1,-0.0238,-0.0133)"/>
+<path id="path169" d=" M 5.8913,109.0763 5.8575,109.0763 4.44,111.4288 7.495,111.4288 5.8913,109.0763 Z M 3.7237,112.46 2.665,113.825 0.0188,113.825 5.0375,107.1776 6.9825,107.1776 11.865,113.825 9.185,113.825 8.195,112.46" style="fill:#FFFFFF;fill-opacity:1;stroke:none;" transform="matrix(1,0,0,1,-0.0238,-0.0133)"/>
+<path id="path171" d=" M 20.43,112.7263 23.98,112.7263 23.98,113.825 17.92,113.825 17.92,107.35 20.43,107.35" style="fill:#FFFFFF;fill-opacity:1;stroke:none;" transform="matrix(1,0,0,1,-0.0238,-0.0133)"/>
+<path id="path173" d=" M 34.2538,113.825 31.7437,113.825 31.7437,108.45 29.15,108.45 29.15,107.35 36.8475,107.35 36.8475,108.45 34.2538,108.45" style="fill:#FFFFFF;fill-opacity:1;stroke:none;" transform="matrix(1,0,0,1,-0.0238,-0.0133)"/>
+<path id="path175" d=" M 45.5688,108.45 45.5688,109.8738 49.5612,109.8738 49.5612,110.975 45.5688,110.975 45.5688,112.7263 49.715,112.7263 49.715,113.825 43.0587,113.825 43.0587,107.35 49.715,107.35 49.715,108.45" style="fill:#FFFFFF;fill-opacity:1;stroke:none;" transform="matrix(1,0,0,1,-0.0238,-0.0133)"/>
+<path id="path177" d=" M 56.6762,107.1776 58.485,107.1776 65.2613,111.7038 65.2962,111.7038 65.2962,107.35 67.805,107.35 67.805,113.955 65.9962,113.955 59.22,109.4288 59.185,109.4288 59.185,113.825 56.6762,113.825" style="fill:#FFFFFF;fill-opacity:1;stroke:none;" transform="matrix(1,0,0,1,-0.0238,-0.0133)"/>
+</svg>

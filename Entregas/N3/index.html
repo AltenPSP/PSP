@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="pragma" content="no-cache" />
+        <!-- Bootstrap CSS --> 
+        <link href="../../assets/Bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <!-- DataTables CSS -->
+        <link rel="stylesheet" type="text/css" href="../../assets/DataTables/datatables.min.css"/>
+        <!-- Page CSS -->
+        <link href="../../Navbar/navbar.css" rel="stylesheet" type="text/css">
+        <link href="../../Sidebar/sidebars.css" rel="stylesheet" type="text/css">
+        <link href="../../styles.css" rel="stylesheet" type="text/css">
+        <!-- jQuery -->
+        <script src="../../assets/jQuery/jquery-3.6.0.min.js"></script>
+        <!-- Bootstrap -->
+        <script src="../../assets/Bootstrap/js/bootstrap.bundle.min.js"></script>
+        <link rel="icon" type="image/png" href="../../assets/images/favicon.png"/>
+        <title>PSP Dashboard - Entregas</title>
+        
+    </head>
+    <body>
+    
+        <!-- Navbar -->
+         
+<nav class="navbar navbar-expand-sm navbar-light fixed-top" id="topNavbar">
+  <div class="container-fluid">
+    <a class="navbar-brand p-0" href="../../index.html">
+      <div>
+        <img src="../../assets/images/alten-SPAIN-120x35px.svg" alt="Logo Alten" height=35px></img>
+      </div>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse row" id="navbarCollapse">
+      <ul class="navbar-nav mb-2 mb-md-0">
+        <li class="col nav-item">
+          <a class="nav-link active" aria-current="page" href="../../Calidad/N4/index.html">Calidad</a>
+        </li>
+        <li class="col nav-item">
+          <a class="nav-link active" aria-current="page" href="../../Coste/N4/index.html">Coste</a>
+        </li>
+        <li class="col nav-item">
+          <a class="nav-link active" aria-current="page" href="../../Entregas/N4/index.html">Entregas</a>
+        </li>
+        <li class="col nav-item">
+          <a class="nav-link active" aria-current="page" href="../../Personas/N4/index.html">Personas</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+        
+        <main class="container-fluid">
+            <!-- Sidebar -->
+            <div class="row" style="min-height:calc((100vh - 56px));">
+                 
+<div class="col-auto collapse multi-collapse width show p-0 bg-airbus-std" id="sidebar">
+  <div class="" id="sidebarContents" >
+    <div class="border-top" id="sidebarTopBorder"></div> <!-- Top border -->
+    <div href="../../" class="align-items-center pt-2 pb-3 mb-3 text-decoration-none border-bottom">
+      <span class="fs-5 fw-semibold" style="padding-left: 0.5em;">Entregas</span>
+      <button class="btn btn-arrow-left float-end" data-bs-toggle="collapse" data-bs-target=".multi-collapse" aria-expanded="false" aria-controls="sidebar sidebarShow"></button>
+    </div>
+    <ul class="list-unstyled ps-0">
+      <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+        <li><a href="../../Entregas/N4/index.html" class="rounded bolded" style="font-size: 1.02rem;">N4</a></li>
+      </ul>
+      <li class="mb-1">
+        <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+          <li><a href="../../Entregas/N3/index.html" class="rounded bolded" style="font-size: 1.02rem;">N3</a></li>
+        </ul>
+      </li>
+      <li class="border-top my-3"></li>
+    </ul>
+  </div>
+</div>
+<div class="position-fixed collapse width multi-collapse p-0" id="sidebarShow">
+  <button class="btn btn-arrow-right float-start bg-airbus-std" data-bs-toggle="collapse" data-bs-target=".multi-collapse" aria-expanded="false" aria-controls="sidebar sidebarShow"></button>
+</div>
+<script src="../../Sidebar/showCollapsibles.js"></script>
+<script src="../../Sidebar/followScroll.js"></script>
+                
+                
+                <!-- Main content -->
+                
+                <div class="col mx-auto" style="padding-left:10%;padding-right:10%;">
+                    <img src="../../Entregas/N3/Imagen1.png" style="width:100%"/>
+                </div>
+            </div>  
+        </main>
+    
+    </body>
+</html>

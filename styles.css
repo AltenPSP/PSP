@@ -1,0 +1,49 @@
+:root{
+    --chart-color0: #00205b;
+    --chart-color1: #36a2eb;
+    --chart-color2: #9BBB59;
+    --chart-color3: #ff9f40;
+    --chart-color4: #4BC0C0;
+    --chart-colorObj: #ff0000;
+    --chart-colorObj2: #8064A2;
+}
+body {
+    padding-top: 4.5rem;
+    background-color: #edf7fd;
+    background-image: url('./assets/images/newsroom-news.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    min-height: 100vh;
+}
+#mainMenu{
+    margin-top: calc((100vh - 56px)/7);
+}
+ /*#mainMenu .row{
+   margin-top: calc((100vh - 56px)/10);  
+}*/ 
+#mainMenu .row > div{
+    height: calc(1880px/4);
+    width: calc(2170px/4);
+    background-color: #f1f4f5;
+    border-radius: 25px;
+    border: 1px solid #2e7aad;
+    margin-left: 5em;
+    margin-right: 5em;
+    box-shadow: 4px 4px 10px #aaaaaa;
+}
+#mainMenu .row .card{
+    background-image: url('./assets/images/LOGO KPI.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.bolded {
+    font-weight:bold;
+}
+.bg-airbus-std{
+    background-color: #00205b;
+}
+.bg-airbus-grey{
+    background-color: #b7c9d3;
+}

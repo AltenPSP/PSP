@@ -1,0 +1,33 @@
+<div class="col-auto collapse multi-collapse width show p-0 bg-airbus-std" id="sidebar">
+  <div class="" id="sidebarContents" >
+    <div class="border-top" id="sidebarTopBorder"></div> <!-- Top border -->
+    <div href="../" class="align-items-center pt-2 pb-3 mb-3 text-decoration-none border-bottom">
+      <span class="fs-5 fw-semibold" style="padding-left: 0.5em;">Calidad</span>
+      <button class="btn btn-arrow-left float-end" data-bs-toggle="collapse" data-bs-target=".multi-collapse" aria-expanded="false" aria-controls="sidebar sidebarShow"></button>
+    </div>
+    <ul class="list-unstyled ps-0">
+      <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+        <li><a href="../Calidad/N4/index.html" class="rounded bolded" style="font-size: 1.02rem;">N4</a></li>
+      </ul>
+      <li class="mb-1">
+        <button class="btn btn-toggle align-items-center rounded collapsed " data-bs-toggle="collapse" data-bs-target="#N3-collapse" aria-expanded="false"> N3 </button>
+          <div class="collapse" id="N3-collapse">
+            <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
+                <li><a href="../Calidad/N3/MSN1/index.html" class="rounded">MSN1</a></li>
+                <li><a href="../Calidad/N3/MSN2/index.html" class="rounded">MSN2</a></li>
+                <li><a href="../Calidad/N3/MSN3/index.html" class="rounded">MSN3</a></li>
+                <li><a href="../Calidad/N3/MSN4/index.html" class="rounded">MSN4</a></li>
+                <li><a href="../Calidad/N3/MSN5/index.html" class="rounded">MSN5</a></li>
+                <li><a href="../Calidad/N3/MSN6/index.html" class="rounded">MSN6</a></li>
+            </ul>
+          </div>
+      </li>
+      <li class="border-top my-3"></li>
+    </ul>
+  </div>
+</div>
+<div class="position-fixed collapse width multi-collapse p-0" id="sidebarShow">
+  <button class="btn btn-arrow-right float-start bg-airbus-std" data-bs-toggle="collapse" data-bs-target=".multi-collapse" aria-expanded="false" aria-controls="sidebar sidebarShow"></button>
+</div>
+<script src="../Sidebar/showCollapsibles.js"></script>
+<script src="../Sidebar/followScroll.js"></script>
