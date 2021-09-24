@@ -22,7 +22,7 @@ body {
  /*#mainMenu .row{
    margin-top: calc((100vh - 56px)/10);  
 }*/ 
-#mainMenu .row > div{
+#mainMenu .row > div:first-child{
     height: calc(1880px/4);
     width: calc(2170px/4);
     background-color: #f1f4f5;
@@ -47,3 +47,26 @@ body {
 .bg-airbus-grey{
     background-color: #b7c9d3;
 }
+
+
+.disclaimer {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+
+  .closebtn:hover {
+    color: black;
+  }
